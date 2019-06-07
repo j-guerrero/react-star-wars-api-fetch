@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/j-guerrero/react-star-wars-api-fetch.git/static/css/main.7d324a61.chunk.css",
-    "main.js": "/j-guerrero/react-star-wars-api-fetch.git/static/js/main.a794def3.chunk.js",
-    "main.js.map": "/j-guerrero/react-star-wars-api-fetch.git/static/js/main.a794def3.chunk.js.map",
-    "runtime~main.js": "/j-guerrero/react-star-wars-api-fetch.git/static/js/runtime~main.900792f4.js",
-    "runtime~main.js.map": "/j-guerrero/react-star-wars-api-fetch.git/static/js/runtime~main.900792f4.js.map",
-    "static/js/2.4834304d.chunk.js": "/j-guerrero/react-star-wars-api-fetch.git/static/js/2.4834304d.chunk.js",
-    "static/js/2.4834304d.chunk.js.map": "/j-guerrero/react-star-wars-api-fetch.git/static/js/2.4834304d.chunk.js.map",
-    "index.html": "/j-guerrero/react-star-wars-api-fetch.git/index.html",
-    "precache-manifest.90a68ccfbb5081a1c8f23c93251f3acb.js": "/j-guerrero/react-star-wars-api-fetch.git/precache-manifest.90a68ccfbb5081a1c8f23c93251f3acb.js",
-    "service-worker.js": "/j-guerrero/react-star-wars-api-fetch.git/service-worker.js",
-    "static/css/main.7d324a61.chunk.css.map": "/j-guerrero/react-star-wars-api-fetch.git/static/css/main.7d324a61.chunk.css.map",
-    "static/media/App.css": "/j-guerrero/react-star-wars-api-fetch.git/static/media/STARWARS.35f31c7a.woff"
+    "main.css": "/react-star-wars-api-fetch/static/css/main.58edd54d.chunk.css",
+    "main.js": "/react-star-wars-api-fetch/static/js/main.bafa11fa.chunk.js",
+    "main.js.map": "/react-star-wars-api-fetch/static/js/main.bafa11fa.chunk.js.map",
+    "runtime~main.js": "/react-star-wars-api-fetch/static/js/runtime~main.36aea9b0.js",
+    "runtime~main.js.map": "/react-star-wars-api-fetch/static/js/runtime~main.36aea9b0.js.map",
+    "static/js/2.4834304d.chunk.js": "/react-star-wars-api-fetch/static/js/2.4834304d.chunk.js",
+    "static/js/2.4834304d.chunk.js.map": "/react-star-wars-api-fetch/static/js/2.4834304d.chunk.js.map",
+    "index.html": "/react-star-wars-api-fetch/index.html",
+    "precache-manifest.c354d970ad9035fd491e46c28d89fe61.js": "/react-star-wars-api-fetch/precache-manifest.c354d970ad9035fd491e46c28d89fe61.js",
+    "service-worker.js": "/react-star-wars-api-fetch/service-worker.js",
+    "static/css/main.58edd54d.chunk.css.map": "/react-star-wars-api-fetch/static/css/main.58edd54d.chunk.css.map",
+    "static/media/App.css": "/react-star-wars-api-fetch/static/media/STARWARS.35f31c7a.woff"
   }
 }
